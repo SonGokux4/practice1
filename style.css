@@ -39,6 +39,9 @@
     /* border: 2px solid gray; */
     color:white;
     background-image: url("./images/background.png"), linear-gradient(45deg,#000000,#000);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .title{
     font-size: 55px;
